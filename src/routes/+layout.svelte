@@ -20,9 +20,10 @@
 		font-family:
 			Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 		background:
-			radial-gradient(circle at top, rgba(78, 205, 196, 0.12), transparent 35%),
-			linear-gradient(180deg, #ffffff 0%, #f4f7fb 100%);
-		color: #0f1c2e;
+			radial-gradient(circle at top left, rgba(37, 99, 235, 0.12), transparent 30%),
+			radial-gradient(circle at top right, rgba(250, 204, 21, 0.14), transparent 22%),
+			linear-gradient(180deg, #f8fafc 0%, #eef4ff 100%);
+		color: #0f172a;
 		min-height: 100vh;
 	}
 
